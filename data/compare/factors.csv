@@ -1,0 +1,14 @@
+lead_h,factor,value,mean_error_all_km,mean_error_03808_km,mean_error_10238_km,mean_error_10393_km,mean_error_24122_km,mean_error_32540_km
+6,vertical,spline,2.906,2.932,3.056,2.109,2.500,3.803
+6,vertical,step,2.954,3.012,3.131,2.176,2.549,3.798
+6,vertical,pchip,2.896,2.909,3.097,2.110,2.479,3.807
+6,vertical,poly3,2.880,2.881,2.966,2.075,2.456,3.840
+6,vertical,linear,2.958,3.021,3.106,2.179,2.548,3.805
+6,surface,hold,2.830,2.666,3.267,2.011,2.325,4.013
+6,surface,observed,2.889,2.986,2.983,2.063,2.555,3.670
+6,surface,power,2.846,2.758,3.179,2.109,2.375,3.867
+6,surface,zero,3.110,3.395,2.855,2.336,2.770,3.691
+6,ascent,constant,2.926,2.997,2.439,2.224,2.507,3.810
+6,ascent,measured,2.911,2.905,3.703,2.035,2.506,3.810
+6,interp,bilinear,2.750,2.727,2.980,1.943,2.508,3.548
+6,interp,nearest,3.087,3.176,3.162,2.316,2.505,4.073
